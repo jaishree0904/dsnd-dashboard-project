@@ -1,0 +1,4 @@
+﻿pandas
+pytest
+sqlite-minutils
+matplotlib
