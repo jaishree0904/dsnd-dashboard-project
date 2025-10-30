@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from employee_events import QueryBase, Employee, Team
 from utils import load_model
+from waitress import serve
+
 
 # Temporary replacement for missing fasthtml module
 class H1:
@@ -197,4 +199,5 @@ async def update_data(r):
         return RedirectResponse(f"/team/{id}", status_code=303)
 
 
-serve()
+app.run(host="0.0.0.0", port=8080, debug=True)
+
