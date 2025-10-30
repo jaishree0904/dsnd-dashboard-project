@@ -1,3 +1,20 @@
+# DSND Dashboard Project
+
+![Build Status](https://github.com/jaishree0904/dsnd-dashboard-project/actions/workflows/test.yml/badge.svg)
+![Lint Status](https://github.com/jaishree0904/dsnd-dashboard-project/actions/workflows/lint.yml/badge.svg)
+
+This project is part of the Data Science Nanodegree Dashboard module.  
+It uses Python for data visualization and includes automated CI/CD with GitHub Actions.
+
+## 🧠 Features
+- Automated testing via pytest
+- Code linting via flake8
+- GitHub Actions CI workflows
+- Dashboard and analytics components
+
+## ⚙️ Installation
+```bash
+pip install -r requirements.txt
 
 # Software Engineering for Data Scientists 
 
