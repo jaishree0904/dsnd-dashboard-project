@@ -1,5 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./dsnd-dashboard-project-main/tests/test_"
-    ]
-}
