@@ -1,12 +1,8 @@
-\# DSND Dashboard Project
+# DSND Dashboard Project
 
-
-
-!\[Build Status](https://github.com/jaishree0904/dsnd-dashboard-project/actions/workflows/test.yml/badge.svg)
-
-
+<p align="left">
+  <img src="https://github.com/jaishree0904/dsnd-dashboard-project/actions/workflows/test.yml/badge.svg" alt="Build Status">
+  <img src="https://github.com/jaishree0904/dsnd-dashboard-project/actions/workflows/lint.yml/badge.svg" alt="Lint Status">
+</p>
 
 This project automates dashboards using Python and GitHub Actions.
-
-
-
